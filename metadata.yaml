@@ -1,5 +1,8 @@
 _repo: The-Story-of-Siegfried_6866
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baldwin, James
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
 description: Legend of Siegfried, which pictures adventure and romance in the days
   of feudalism. Grades 6-8. For other editions, see Author Catalog.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6866#The-Story-of-Siegfried
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
